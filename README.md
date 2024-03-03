@@ -1,5 +1,7 @@
 # Burgers-Model
 Optimisation of the Burgers model parameters using the Monte Carlo method.
+
+
 The aim of the project is to analyse the performance of a programme for numerically optimising the parameters of a Burgers model using the Monte Carlo method by random drawing. 
 The Burgers model is a mathematical model that is used, among other things, to study the course and analysis of plastic deformation and how a material behaves under stress. 
 The model is often used in the design of different types of structures or in numerical simulations.
